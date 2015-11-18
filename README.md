@@ -4,7 +4,7 @@ Easily integrate services and data from Outlook into native iOS apps using this 
 
 ---
 
-:exclamation:**NOTE**: This code and associated binaries are released as a developer *PREVIEW*. You are free to use this library according to the terms of its included [LICENSE](/LICENSE) and to open issues in this repo for unofficial support.
+:exclamation:**NOTE**: This code and associated binaries are released as a developer. You are free to use this library according to the terms of its included [LICENSE](/LICENSE) and to open issues in this repo for unofficial support.
 
 Information about official Microsoft support is available  [here][support-placeholder].
 
