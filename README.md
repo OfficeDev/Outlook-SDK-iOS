@@ -1,4 +1,4 @@
-# Outlook SDK for iOS (Preview)
+# Outlook SDK for iOS
 
 Easily integrate services and data from Outlook into native iOS apps using this Objective-C library.
 
