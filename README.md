@@ -66,7 +66,7 @@ With your project prepared, the next step is to initialize the dependency manage
  |---|-----|
  |ClientId|Example: e59f95f8-7957-4c2e-8922-c1f27e1f14e0|
  |RedirectUri|Example: https://my.client.app/|
- |ResourceId|Example: https://outlook.office365.com/|
+ |ResourceId|Example: https://outlook.office.com/|
  |AuthorityUrl|https://login.microsoftonline.com/common/|
 
 2. Open ViewController.m from the OutlookQuickStart folder. Add the umbrella header for Outlook and ADAL related headers.
@@ -96,7 +96,7 @@ With your project prepared, the next step is to initialize the dependency manage
      
     self.resolver = [[ADALDependencyResolver alloc] initWithPlist];
     
-    self.outlookClient = [[MSOutlookClient alloc] initWithUrl:@"https://outlook.office365.com/api/v2.0" dependencyResolver:self.resolver];
+    self.outlookClient = [[MSOutlookClient alloc] initWithUrl:@"https://outlook.office.com/api/v2.0" dependencyResolver:self.resolver];
     }
  ```
 
