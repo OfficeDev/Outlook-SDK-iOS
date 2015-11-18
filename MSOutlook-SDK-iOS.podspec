@@ -2,12 +2,12 @@
 
 Pod::Spec.new do |s|
     s.name         = "MSOutlook-SDK-iOS"
-    s.version      = "0.12.0"
-    s.summary      = "SUMMARY"
-    s.description  = "DESCRIPTION"
+    s.version      = "2.0.0"
+    s.summary      = "Client libraries for calling Outlook APIs from iOS apps. (Preview)"
+    s.description  = "Client libraries for calling Outlook APIs from iOS apps. (Preview)"
     s.homepage     = "https://github.com/OfficeDev/Outlook-SDK-iOS"
     s.license      = "Apache License, Version 2.0"
-    s.author             = { "joshgav" => "josh.gavant@microsoft.com" }
+    s.author             = { "v-migpe" => "v-migpe@microsoft.com" }
     s.social_media_url   = "http://twitter.com/OpenAtMicrosoft"
 
     s.platform     = :ios
