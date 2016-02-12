@@ -42,13 +42,13 @@ To use this library in your project, follow these general steps, as described fu
  pod 'MSOutlook-SDK-iOS'
  ```
 
- > NOTE: For detailed information on Cocoapods and best practices for Podfiles, read the [Using Cocoapods] guide.
+ > NOTE: For detailed information on CocoaPods and best practices for Podfiles, read the [Using CocoaPods] guide.
 
 4. Close the Xcode project.
 
 5. From the command line, change to your project's directory. Then run `pod install`.
 
- > NOTE: Install Cocoapods first of course. Instructions [here](https://guides.cocoapods.org/using/getting-started.html).
+ > NOTE: Install CocoaPods first of course. Instructions [here](https://guides.cocoapods.org/using/getting-started.html).
 
 6. From the same location in the terminal, execute `open OutlookQuickStart.xcworkspace` to open a workspace containing your original project together with imported pods in Xcode.
 
@@ -114,7 +114,7 @@ With your project prepared, the next step is to initialize the dependency manage
 
 6. Now you can safely use the API client.
 
-[Using Cocoapods]: https://guides.cocoapods.org/using/using-cocoapods.html
+[Using CocoaPods]: https://guides.cocoapods.org/using/using-cocoapods.html
 [MSDN Add Common Consent]: https://msdn.microsoft.com/en-us/office/office365/howto/add-common-consent-manually
 
 ## Samples
