@@ -1,3 +1,14 @@
+---
+topic: sample
+products:
+- Office 365
+- Outlook
+languages:
+- Objective-C
+extensions:
+  contentType: samples
+  createdDate: 11/12/2015 12:59:56 PM
+---
 # Outlook SDK for iOS
 
 **Important:** This preview SDK has been deprecated and is no longer being maintained. We recommend that you use [Microsoft Graph](https://graph.microsoft.com/) and the associated [Microsoft Graph SDKs](https://developer.microsoft.com/en-us/graph/code-samples-and-sdks) instead.
