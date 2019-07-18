@@ -1,10 +1,10 @@
 ---
 topic: sample
 products:
-- Office 365
-- Outlook
+- office-365
+- office-outlook
 languages:
-- Objective-C
+- objc
 extensions:
   contentType: samples
   createdDate: 11/12/2015 12:59:56 PM
